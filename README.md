@@ -62,34 +62,34 @@ Join our digital marketing agency in creating a powerful set of search keywords 
 
  1. **Unleash the Power Words**
 
-Explore words that resonate with savvy shoppers: 'buy', 'price', 'discount', 'promotion', 'promo', and 'shop'.
+     - Explore words that resonate with savvy shoppers: 'buy', 'price', 'discount', 'promotion', 'promo', and 'shop'.
 
  2. **Fusion of Words and Products**
 
-Combine these impactful words with each furniture product, unleashing a dynamic array of search keywords.
+     - Combine these impactful words with each furniture product, unleashing a dynamic array of search keywords.
 
  3. **Data Alchemy: DataFrame Creation**
 
-Transform this fusion into a DataFrame, a canvas for crafting our campaign masterpiece.
+     - Transform this fusion into a DataFrame, a canvas for crafting our campaign masterpiece.
 
 4. **Renaming the Scene**
 
-Give our DataFrame a polished look by assigning meaningful names to its columns.
+     - Give our DataFrame a polished look by assigning meaningful names to its columns.
 
 5. **Campaign Chronicles**
 
-Introduce a 'Campaign' column, giving our efforts a distinct identity - 'SEM_Sofas'.
+     - Introduce a 'Campaign' column, giving our efforts a distinct identity - 'SEM_Sofas'.
 
 6. **Crafting Match Types**
 
-Create a 'Criterion Type' column, setting the stage with the precision of 'Exact' match.
+     - Create a 'Criterion Type' column, setting the stage with the precision of 'Exact' match.
 
 7. **Echoes of Keywords: 'Phrase' Edition**
 
-Duplicate the keyword symphony, this time embracing the versatility of 'Phrase' match.
+     - Duplicate the keyword symphony, this time embracing the versatility of 'Phrase' match.
 
 8. **Save and Unveil**
 
-Capture our campaign in a CSV file, ready for its grand entrance. Delve into a summary, a glimpse of our campaign's structure.
+     - Capture our campaign in a CSV file, ready for its grand entrance. Delve into a summary, a glimpse of our campaign's structure.
 
 View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/Generating-Keywords-for-Google-Ads.ipynb).

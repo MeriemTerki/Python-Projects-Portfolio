@@ -51,7 +51,7 @@ Explore and analyze Scala's real-world project repository data with nearly 30,00
 
 View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/The-GitHub-History-of-the-Scala-Language/The-GitHub-History-of-the-Scala-Language.ipynb).
 
-## 🚀 ** Visualizing the History of Nobel Prize Winners Project**
+## 🚀 Visualizing the History of Nobel Prize Winners Project
 
 ### **Project Overview**
 
@@ -61,7 +61,7 @@ Explore and analyze the Nobel Prize dataset, a comprehensive collection of prize
 
 1. **Data Loading:**
 
-#### Libraries:
+##### Libraries:
 - Pandas for data manipulation.
 - Seaborn for visualization.
 - NumPy for numerical operations.

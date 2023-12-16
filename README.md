@@ -51,6 +51,37 @@ Explore and analyze Scala's real-world project repository data with nearly 30,00
 
 View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/The-GitHub-History-of-the-Scala-Language/The-GitHub-History-of-the-Scala-Language.ipynb).
 
+## 🚀 ** Visualizing the History of Nobel Prize Winners Project**
+
+### **Project Overview**
+
+Explore and analyze the Nobel Prize dataset, a comprehensive collection of prizewinning data spanning from 1901 to 2023. The dataset is sourced from the Nobel Prize API and is available in the 'nobel.csv' file in the data folder.
+
+### Steps
+
+1. **Data Loading:**
+
+#### Libraries:
+- Pandas for data manipulation.
+- Seaborn for visualization.
+- NumPy for numerical operations.
+
+2. **Most Commonly Awarded Gender and Birth Country:**
+   - Identify and store the most commonly awarded gender and birth country among Nobel laureates.
+3. **Proportion of USA-Born Winners Over Decades:**
+   - Calculate the proportion of USA-born winners per decade.
+   - Display the proportions of USA-born winners per decade.
+   - Display the lineplot of USA Born Winners Over Decades
+4. **Proportion of Female Laureates Over Decades:**
+   - Calculate the proportion of female laureates per decade and category.
+   - Visualize this with a relational line plot.
+5. **First Woman Nobel Prize Winner:**
+   - Identify and display information about the first woman to win a Nobel Prize.
+6. **Repeat Winners:**
+   - Identify and display laureates who have received two or more Nobel Prizes.
+
+View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/Visualizing-the-History-of-Nobel-Prize-Winners/Visualizing-the-History-of-Nobel-Prize-Winners.ipynb).
+
 
 ## 🚀 **Furniture Retailer Campaign: Keyword Generation**
 
@@ -62,34 +93,34 @@ Join our digital marketing agency in creating a powerful set of search keywords 
 
  1. **Unleash the Power Words**
 
-     - Explore words that resonate with savvy shoppers: 'buy', 'price', 'discount', 'promotion', 'promo', and 'shop'.
+    - Explore words that resonate with savvy shoppers: 'buy', 'price', 'discount', 'promotion', 'promo', and 'shop'.
 
  2. **Fusion of Words and Products**
 
-     - Combine these impactful words with each furniture product, unleashing a dynamic array of search keywords.
+    - Combine these impactful words with each furniture product, unleashing a dynamic array of search keywords.
 
  3. **Data Alchemy: DataFrame Creation**
 
-     - Transform this fusion into a DataFrame, a canvas for crafting our campaign masterpiece.
+    - Transform this fusion into a DataFrame, a canvas for crafting our campaign masterpiece.
 
 4. **Renaming the Scene**
 
-     - Give our DataFrame a polished look by assigning meaningful names to its columns.
+    - Give our DataFrame a polished look by assigning meaningful names to its columns.
 
 5. **Campaign Chronicles**
 
-     - Introduce a 'Campaign' column, giving our efforts a distinct identity - 'SEM_Sofas'.
+    - Introduce a 'Campaign' column, giving our efforts a distinct identity - 'SEM_Sofas'.
 
 6. **Crafting Match Types**
 
-     - Create a 'Criterion Type' column, setting the stage with the precision of 'Exact' match.
+    - Create a 'Criterion Type' column, setting the stage with the precision of 'Exact' match.
 
 7. **Echoes of Keywords: 'Phrase' Edition**
 
-     - Duplicate the keyword symphony, this time embracing the versatility of 'Phrase' match.
+    - Duplicate the keyword symphony, this time embracing the versatility of 'Phrase' match.
 
 8. **Save and Unveil**
 
-     - Capture our campaign in a CSV file, ready for its grand entrance. Delve into a summary, a glimpse of our campaign's structure.
+    - Capture our campaign in a CSV file, ready for its grand entrance. Delve into a summary, a glimpse of our campaign's structure.
 
 View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/Generating-Keywords-for-Google-Ads.ipynb).

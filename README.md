@@ -1,5 +1,24 @@
 # Python-Projects-Portfolio
-## 🚀 **The GitHub History of the Scala Language Project**
+
+## 🚀 Los Angeles Crime Analysis 
+
+### **Project Overview**
+
+Welcome to the City of Angels! this project aims to analyze crime data to uncover patterns in criminal behavior. The insights gained will assist the LAPD in allocating resources effectively and implementing targeted crime prevention strategies across different areas of Los Angeles.
+
+### **Steps**
+1. **Identify Peak Crime Hour**
+   - Determine the hour with the highest frequency of crimes and store it as an integer variable called `peak_crime_hour`.
+2. **Locate Area with Highest Night Crimes**
+   - Find the area with the largest frequency of night crimes (committed between 10 pm and 3:59 am) and save it as a string variable called peak_night_crime_location.
+3. **Analyze Crimes by Victim Age Group**
+   - Examine the number of crimes committed against victims in different age groups (<18, 18-25, 26-34, 35-44, 45-54, 55-64, 65+). Save the results as a pandas Series 
+     called victim_ages.
+
+View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/Analyzing-Crime-in-Los-Angeles/Analyzing-Crime-in-Los-Angeles.ipynb).
+
+
+## 🚀 The GitHub History of the Scala Language Project
 
 ### **Project Overview**
 
@@ -50,6 +69,7 @@ Explore and analyze Scala's real-world project repository data with nearly 30,00
       
 
 View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/The-GitHub-History-of-the-Scala-Language/The-GitHub-History-of-the-Scala-Language.ipynb).
+
 
 ## 🚀 Visualizing the History of Nobel Prize Winners Project
 

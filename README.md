@@ -1,6 +1,6 @@
 # Python-Projects-Portfolio
 
-## 🚀 Los Angeles Crime Analysis 
+## 🚀 Analyzing Crime in Los Angeles Project
 
 ### **Project Overview**
 

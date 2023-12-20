@@ -103,7 +103,7 @@ Explore and analyze the Nobel Prize dataset, a comprehensive collection of prize
 View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/Visualizing-the-History-of-Nobel-Prize-Winners/Visualizing-the-History-of-Nobel-Prize-Winners.ipynb).
 
 
-## 🚀 **Furniture Retailer Campaign: Keyword Generation**
+## 🚀 Furniture Retailer Campaign: Keyword Generation
 
 ### **Project Overview**
 
@@ -144,3 +144,42 @@ Join our digital marketing agency in creating a powerful set of search keywords 
     - Capture our campaign in a CSV file, ready for its grand entrance. Delve into a summary, a glimpse of our campaign's structure.
 
 View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/Generating-Keywords-for-Google-Ads.ipynb).
+
+
+## 🚀 Soccer Goal Analysis
+
+### **Project Overview**
+
+This project, led by a sports journalist specializing in soccer analysis, investigates whether more goals are scored in women's international soccer matches compared to men's. The analysis utilizes statistical hypothesis testing and focuses on data from official FIFA World Cup matches since January 1, 2002.
+
+### **Hypotheses**
+
+- **Null Hypothesis (H0):** The mean number of goals scored in women's international soccer matches is equal to that of men's.
+- **Alternative Hypothesis (H1):** The mean number of goals scored in women's international soccer matches is greater than that of men's.
+
+### **Datasets**
+
+Two datasets, namely `women_results.csv` and `men_results.csv`, have been compiled. These datasets contain results from official men's and women's international football matches since the 19th century.
+
+### **Methodology**
+
+ 1. **Data Preparation**
+
+   - The datasets are loaded and filtered to include only FIFA World Cup matches since January 1, 2002.
+
+ 2. **Data Transformation**
+
+    - Relevant columns are selected, and a new column is created to represent the total goals scored in each match. This information is crucial for the subsequent analysis.
+
+ 3. **Hypothesis Testing**
+
+    - The Wilcoxon-Mann-Whitney test is employed to compare the mean goals scored between women's and men's matches. The test is conducted using both the Pingouin and SciPy 
+      libraries.
+
+ 4. **Result Interpretation**
+
+     - The p-value obtained from the hypothesis test is analyzed. If the p-value is less than or equal to 0.01, the null hypothesis is rejected; otherwise, it is failed to 
+       be rejected. The outcome is then summarized to provide a clear interpretation of the results.
+
+
+View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/Hypothesis-Testing-with-Men's-and-Women's-Soccer-Matches/Hypothesis-Testing-with-Men's-and-Women's-Soccer-Matches.ipynb).

@@ -146,7 +146,7 @@ Join our digital marketing agency in creating a powerful set of search keywords 
 View my project [here](https://github.com/MeriemTerki/Python-Projects-Portfolio/blob/main/Generating-Keywords-for-Google-Ads.ipynb).
 
 
-## 🚀 Soccer Goal Analysis
+## 🚀 Hypothesis Testing with Men's and Women's Soccer Matches
 
 ### **Project Overview**
 
